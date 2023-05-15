@@ -1,0 +1,8 @@
+{
+    "shopPage":{
+        "titleShop":"my shop"
+    },
+
+    "loginPage":{
+        "logname":"login"   }
+}

@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin admin",
+      "phone": "09393861802",
+      "image": "",
+      "role": 1,
+      "address": "شیراز خودمون    bnbnbnb 123"
+    },
+    {
+      "id": 2,
+      "username": "mahsa roozrokh",
+      "phone": "09173133478",
+      "image": "",
+      "role": 2,
+      "address": "شیراز"
+    },
+    {
+      "id": 3,
+      "username": "admin aaaaa",
+      "phone": "09874563210",
+      "image": "",
+      "role": 2,
+      "address": "dscsdfsd"
+    },
+    {
+      "id": 4,
+      "username": "ffff fffff",
+      "phone": "09854558856",
+      "image": "",
+      "role": 2,
+      "address": "sdgdfgdf"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "test ddd1",
+      "price": 3,
+      "discount": 3,
+      "discription": "3",
+      "tags": [],
+      "isAvilable": true,
+      "totalCount": 3,
+      "category": "category",
+      "image": null
+    },
+    {
+      "id": 3,
+      "name": "d",
+      "price": 2,
+      "discount": 2,
+      "discription": "2",
+      "tags": [
+        "histroy",
+        "novel"
+      ],
+      "isAvilable": true,
+      "totalCount": 2,
+      "category": "category",
+      "image": null
+    },
+    {
+      "id": 4,
+      "name": "h",
+      "price": 1000,
+      "discount": 10,
+      "discription": "4",
+      "tags": [
+        "histroy"
+      ],
+      "isAvilable": true,
+      "totalCount": 4,
+      "category": "category",
+      "image": null
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "tagName": "novel",
+      "isDeletedTag": false
+    },
+    {
+      "id": 4,
+      "tagName": "novel",
+      "isDeletedTag": false
+    },
+    {
+      "id": 6,
+      "tagName": "555hhhh",
+      "isDeletedTag": false
+    }
+  ]
+}
